@@ -1,6 +1,6 @@
 # Translation Status
 
-Last updated: 2026-02-19 13:08:17
+Last updated: 2026-03-06 13:17:51
 
 Reference locale (en): **345 keys**
 
